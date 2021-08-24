@@ -45,6 +45,13 @@ Then:
 For each of the variables in the .env file, run the command `heroku config:set VARIABLE_NAME=VARIABLE_VALUE` \
 run `heroku config:set QUESTIONS=number of questions you want per day` to set the number of questions to receive per day.
 
+If I update the code, you can merge the changes with the code you have by running the following commands: \
+`git pull` \
+`git add .` \
+`git commit -m "commit message"` \
+`git push heroku`
+
+
 The bot runs for five minutes then shuts down. You might want to visit https://cron-job.org/en/ and set the time when the bot should run and send the challenges.
 
 If you can make this readme better, I will happily merge your pull request. \
