@@ -1,0 +1,7 @@
+praw
+psycopg2
+heroku3
+flask
+gunicorn
+python-telegram-bot
+python-dotenv
