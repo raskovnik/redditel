@@ -11,6 +11,7 @@ Clone the fork you just created. \
 
 
 Go to [Heroku website](heroku.com), login and create a new App; choose a meaningful name for your App. \
+Go to Resources and search for Heroku postgres under add-ons and attach the database to your app. \
 Now we need to add a python build pack, head over to Settings>Add Build Pack>Select the Python Option. 
 
 Click [here](https://devcenter.heroku.com/articles/heroku-cli) to install heroku cli for your OS. \
