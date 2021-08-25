@@ -7,7 +7,7 @@ For the bot to work you'll need:
 * A reddit account
 
 Fork this repository. \
-Clone the fork you just created. \
+Clone the fork you just created. 
 
 
 Go to [Heroku website](heroku.com), login and create a new App; choose a meaningful name for your App. \
@@ -56,5 +56,3 @@ If I update the code, you can merge the changes with the code you have by runnin
 The bot runs for five minutes then shuts down. You might want to visit https://cron-job.org/en/ and set the time when the bot should run and send the challenges.
 
 If you can make this readme better, I will happily merge your pull request. \
-If you made it to the end with no errors, say two hail marys and three our fathers. If you're not that religious, break your arm patting yourself on the back for a job well done.
-
