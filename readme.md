@@ -6,8 +6,7 @@ For the bot to work you'll need:
 * A telegram account. 
 * A reddit account
 
-Fork this repository. \
-Clone the fork you just created. 
+Clone/fork this repository. \
 
 
 Go to [Heroku website](heroku.com), login and create a new App; choose a meaningful name for your App. \
