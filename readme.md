@@ -1,4 +1,3 @@
-I'm not the best when it comes to how tos and tutorials but let's give it a try. 😜 \
 Bot that fetches challenges from r/dailyprogrammer and sends them to you via telegram.
 
 For the bot to work you'll need: 
@@ -54,4 +53,4 @@ If I update the code, you can merge the changes with the code you have by runnin
 
 The bot runs for five minutes then shuts down. You might want to visit https://cron-job.org/en/ and set the time when the bot should run and send the challenges.
 
-If you can make this project better, I will happily merge your pull request. \
+If you can make this project better, I will happily merge your pull request.\ 
